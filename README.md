@@ -35,4 +35,7 @@ HTML5, CSS3
 Figma link: 
 https://www.figma.com/file/ZUCAU67LcZhGteduj63Zcv/Acarra?node-id=472-2500&t=a6H90VZX0ySZ5p6r-4
 
-Screenshot of work scope: https://prnt.sc/DX4hnGgVUEby
+Figma prototype link:
+https://www.figma.com/proto/ZUCAU67LcZhGteduj63Zcv/Acarra?node-id=472-2500&scaling=min-zoom&page-id=464%3A9726&hide-ui=1
+
+Screenshot of expected work scope: https://prnt.sc/DX4hnGgVUEby
