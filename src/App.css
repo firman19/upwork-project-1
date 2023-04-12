@@ -19,7 +19,6 @@ body {
   max-width: 500px;
   margin: auto;
   min-height: 100%;
-  min-width: 390px;
 }
 
 .header {
@@ -208,7 +207,7 @@ label.checkbox {
   flex-wrap: wrap;
   width: calc(50% - .5rem);
   padding: 0 1.5rem;
-  height: 58px;
+  min-height: 58px;
   background: #edf2f7;
   border-radius: 12px;
   margin-bottom: 14px;
