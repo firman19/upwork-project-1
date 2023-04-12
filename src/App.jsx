@@ -12,7 +12,7 @@ function App() {
       <div className="content">
 
         <div className="card-user">
-          <div className="card-user-thumbnail text-title">
+          <div className="card-user-thumbnail text-title" style={{lineHeight:1,fontSize:"20px"}}>
             J
           </div>
           <div className="card-user-info">
@@ -30,7 +30,7 @@ function App() {
             <img src="/img.png" alt="" width={"100%"} height={'auto'}/>
           </div>
           <div className="card-service-info">
-            <div className="text-primary">Japanese lessons</div>
+            <div className="text-primary" style={{marginBottom:".5rem"}}>Japanese lessons</div>
             <div className="icon icon-calendar text-inactive">Nov 7, 2020 · 11:30</div>
             <div className="icon icon-location text-inactive">Client`s place</div>
             <div className="text-primary">Rp 350.000</div>
