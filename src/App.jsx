@@ -27,7 +27,7 @@ function App() {
         </div>
         <div className="card-service">
           <div className="card-service-thumbnail">
-            <img src="/img.png" alt="" />
+            <img src="/img.png" alt="" width={"100%"} height={'auto'}/>
           </div>
           <div className="card-service-info">
             <div className="text-primary">Japanese lessons</div>
